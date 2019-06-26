@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<publish>
+  <id>an-id-to-use</id>
+  <name>index.html</name>
+  <xml>/path/to/xml.xml</xml>
+  <xsl>/path/to/xsl.xsl</xsl>
+  <output>/output/path/</output>
+</publish>

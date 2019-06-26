@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<publisher-config>
+  
+  <!-- Name of xml files that provide specifics for transformations -->
+  <name>publish.xml</name>
+
+  <!-- Root node name -->
+  <root>publish</root>
+
+  <!-- name of xsd for validation of xml file lives in applications path -->
+  <validate>publish.xsd</validate>
+  
+  <wait>5</wait>
+</publisher-config>
